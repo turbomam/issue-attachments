@@ -1,0 +1,4 @@
+id	action	attribute	value
+nmdc:sty-11-2c3s5473	update	principal_investigator	pi1
+pi1	update	has_raw_value	Mads Albertsen, Per Halkjær Nielsen
+pi1	update	type	nmdc:PersonValue
