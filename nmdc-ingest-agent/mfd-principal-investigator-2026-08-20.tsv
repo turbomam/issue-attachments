@@ -1,0 +1,5 @@
+id	action	attribute	value
+nmdc:sty-11-2c3s5473	update	principal_investigator	pi1
+pi1	update	name	Mads Albertsen
+pi1	update	orcid	orcid:0000-0002-6151-190X
+pi1	update	type	nmdc:PersonValue
