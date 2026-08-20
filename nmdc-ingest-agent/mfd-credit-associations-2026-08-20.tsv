@@ -1,0 +1,419 @@
+id	action	attribute	value
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v1
+v1	insert	applied_roles	Methodology|Formal Analysis|Writing original draft|Writing review and editing
+v1	insert	type	prov:Association
+v1	insert	applies_to_person.name	Caitlin M. Singleton
+v1	insert	applies_to_person.orcid	orcid:0000-0001-9688-8208
+v1	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v2
+v2	insert	applied_roles	Methodology|Project administration|Data curation|Investigation|Formal Analysis|Writing original draft|Writing review and editing
+v2	insert	type	prov:Association
+v2	insert	applies_to_person.name	Thomas Bygh Nymann Jensen
+v2	insert	applies_to_person.orcid	orcid:0000-0001-5815-5468
+v2	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v3
+v3	insert	applied_roles	Methodology|Supervision|Data curation|Formal Analysis|Writing original draft|Writing review and editing
+v3	insert	type	prov:Association
+v3	insert	applies_to_person.name	Francesco Delogu
+v3	insert	applies_to_person.orcid	orcid:0000-0002-7211-8011
+v3	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v4
+v4	insert	applied_roles	Methodology|Formal Analysis|Writing original draft|Writing review and editing
+v4	insert	type	prov:Association
+v4	insert	applies_to_person.name	Kalinka Sand Knudsen
+v4	insert	applies_to_person.orcid	orcid:0009-0004-7054-2355
+v4	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v5
+v5	insert	applied_roles	Methodology|Investigation|Formal Analysis|Writing review and editing
+v5	insert	type	prov:Association
+v5	insert	applies_to_person.name	Emil A. Sørensen
+v5	insert	applies_to_person.orcid	orcid:0000-0002-0853-992X
+v5	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v6
+v6	insert	applied_roles	Methodology|Project administration|Data curation|Investigation|Writing review and editing
+v6	insert	type	prov:Association
+v6	insert	applies_to_person.name	Vibeke Rudkjøbing Jørgensen
+v6	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v7
+v7	insert	applied_roles	Conceptualization|Methodology|Writing review and editing
+v7	insert	type	prov:Association
+v7	insert	applies_to_person.name	Søren Michael Karst
+v7	insert	applies_to_person.orcid	orcid:0000-0002-0233-160X
+v7	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v8
+v8	insert	applied_roles	Methodology|Formal Analysis|Writing original draft|Writing review and editing
+v8	insert	type	prov:Association
+v8	insert	applies_to_person.name	Yuhong Yang
+v8	insert	applies_to_person.orcid	orcid:0000-0001-5634-1427
+v8	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v9
+v9	insert	applied_roles	Formal Analysis|Validation|Writing review and editing
+v9	insert	type	prov:Association
+v9	insert	applies_to_person.name	Mantas Sereika
+v9	insert	applies_to_person.orcid	orcid:0000-0001-7568-1080
+v9	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v10
+v10	insert	applied_roles	Formal Analysis|Writing review and editing
+v10	insert	type	prov:Association
+v10	insert	applies_to_person.name	Francesca Petriglieri
+v10	insert	applies_to_person.orcid	orcid:0000-0002-1676-7690
+v10	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v11
+v11	insert	applied_roles	Investigation|Writing review and editing
+v11	insert	type	prov:Association
+v11	insert	applies_to_person.name	Sven Knutsson
+v11	insert	applies_to_person.orcid	orcid:0000-0002-1365-8552
+v11	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v12
+v12	insert	applied_roles	Investigation|Writing review and editing
+v12	insert	type	prov:Association
+v12	insert	applies_to_person.name	Sebastian Mølvang Dall
+v12	insert	applies_to_person.orcid	orcid:0000-0003-0108-152X
+v12	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v13
+v13	insert	applied_roles	Data curation|Writing review and editing
+v13	insert	type	prov:Association
+v13	insert	applies_to_person.name	Rasmus Hansen Kirkegaard
+v13	insert	applies_to_person.orcid	orcid:0000-0003-3349-3617
+v13	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v14
+v14	insert	applied_roles	Formal Analysis|Writing review and editing
+v14	insert	type	prov:Association
+v14	insert	applies_to_person.name	Jannie Munk Kristensen
+v14	insert	applies_to_person.orcid	orcid:0000-0001-7471-7934
+v14	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v15
+v15	insert	applied_roles	Investigation|Writing review and editing
+v15	insert	type	prov:Association
+v15	insert	applies_to_person.name	Christina Karmisholt Overgaard
+v15	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v16
+v16	insert	applied_roles	Methodology|Writing review and editing
+v16	insert	type	prov:Association
+v16	insert	applies_to_person.name	Ben J. Woodcroft
+v16	insert	applies_to_person.orcid	orcid:0000-0003-0670-7480
+v16	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v17
+v17	insert	applied_roles	Formal Analysis|Writing review and editing
+v17	insert	type	prov:Association
+v17	insert	applies_to_person.name	Daan R. Speth
+v17	insert	applies_to_person.orcid	orcid:0000-0002-2361-5935
+v17	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v18
+v18	insert	applied_roles	Methodology|Writing review and editing
+v18	insert	type	prov:Association
+v18	insert	applies_to_person.name	Samuel T. N. Aroney
+v18	insert	applies_to_person.orcid	orcid:0000-0001-9806-5846
+v18	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v19
+v19	insert	applied_roles	Writing review and editing
+v19	insert	type	prov:Association
+v19	insert	applies_to_person.name	Henning Thomsen
+v19	insert	applies_to_person.orcid	orcid:0000-0001-5865-1277
+v19	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v20
+v20	insert	applied_roles	Writing review and editing
+v20	insert	type	prov:Association
+v20	insert	applies_to_person.name	Bent T. Christensen
+v20	insert	applies_to_person.orcid	orcid:0000-0003-4326-9192
+v20	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v21
+v21	insert	applied_roles	Writing review and editing
+v21	insert	type	prov:Association
+v21	insert	applies_to_person.name	Lis Wollesen de Jonge
+v21	insert	applies_to_person.orcid	orcid:0000-0003-2874-0644
+v21	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v22
+v22	insert	applied_roles	Writing review and editing
+v22	insert	type	prov:Association
+v22	insert	applies_to_person.name	Anne‐Cathrine Storgaard Danielsen
+v22	insert	applies_to_person.orcid	orcid:0000-0002-4075-1947
+v22	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v23
+v23	insert	applied_roles	Writing review and editing
+v23	insert	type	prov:Association
+v23	insert	applies_to_person.name	Cecilie Hermansen
+v23	insert	applies_to_person.orcid	orcid:0000-0002-1925-3732
+v23	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v24
+v24	insert	applied_roles	Writing review and editing
+v24	insert	type	prov:Association
+v24	insert	applies_to_person.name	Mogens Humlekrog Greve
+v24	insert	applies_to_person.orcid	orcid:0000-0001-9099-8940
+v24	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v25
+v25	insert	applied_roles	Writing review and editing
+v25	insert	type	prov:Association
+v25	insert	applies_to_person.name	Rasmus Ejrnæs
+v25	insert	applies_to_person.orcid	orcid:0000-0003-2538-8606
+v25	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v26
+v26	insert	applied_roles	Writing review and editing
+v26	insert	type	prov:Association
+v26	insert	applies_to_person.name	Thomas A. Davidson
+v26	insert	applies_to_person.orcid	orcid:0000-0003-2326-1564
+v26	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v27
+v27	insert	applied_roles	Writing review and editing
+v27	insert	type	prov:Association
+v27	insert	applies_to_person.name	Signe Normand
+v27	insert	applies_to_person.orcid	orcid:0000-0002-8782-4154
+v27	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v28
+v28	insert	applied_roles	Writing review and editing
+v28	insert	type	prov:Association
+v28	insert	applies_to_person.name	Urs A. Treier
+v28	insert	applies_to_person.orcid	orcid:0000-0003-4027-739X
+v28	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v29
+v29	insert	applied_roles	Writing review and editing
+v29	insert	type	prov:Association
+v29	insert	applies_to_person.name	Bjarke Madsen
+v29	insert	applies_to_person.orcid	orcid:0000-0002-4490-8710
+v29	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v30
+v30	insert	applied_roles	Writing review and editing
+v30	insert	type	prov:Association
+v30	insert	applies_to_person.name	Andreas Schramm
+v30	insert	applies_to_person.orcid	orcid:0000-0002-7614-9616
+v30	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v31
+v31	insert	applied_roles	Writing review and editing
+v31	insert	type	prov:Association
+v31	insert	applies_to_person.name	Ian P. G. Marshall
+v31	insert	applies_to_person.orcid	orcid:0000-0001-9264-4687
+v31	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v32
+v32	insert	applied_roles	Writing review and editing
+v32	insert	type	prov:Association
+v32	insert	applies_to_person.name	Ann‐Sofie Dam
+v32	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v33
+v33	insert	applied_roles	Writing review and editing
+v33	insert	type	prov:Association
+v33	insert	applies_to_person.name	Kasper Urup Kjeldsen
+v33	insert	applies_to_person.orcid	orcid:0000-0002-7805-5605
+v33	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v34
+v34	insert	applied_roles	Writing review and editing
+v34	insert	type	prov:Association
+v34	insert	applies_to_person.name	Kai Finster
+v34	insert	applies_to_person.orcid	orcid:0000-0002-9132-5542
+v34	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v35
+v35	insert	applied_roles	Writing review and editing
+v35	insert	type	prov:Association
+v35	insert	applies_to_person.name	Philip Francis Thomsen
+v35	insert	applies_to_person.orcid	orcid:0000-0002-9867-4366
+v35	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v36
+v36	insert	applied_roles	Writing review and editing
+v36	insert	type	prov:Association
+v36	insert	applies_to_person.name	Eva Egelyng Sigsgaard
+v36	insert	applies_to_person.orcid	orcid:0000-0002-9396-1550
+v36	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v37
+v37	insert	applied_roles	Writing review and editing
+v37	insert	type	prov:Association
+v37	insert	applies_to_person.name	Martin Johannesen Klepke
+v37	insert	applies_to_person.orcid	orcid:0000-0001-6180-9696
+v37	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v38
+v38	insert	applied_roles	Writing review and editing
+v38	insert	type	prov:Association
+v38	insert	applies_to_person.name	Marie Vestergård
+v38	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v39
+v39	insert	applied_roles	Writing review and editing
+v39	insert	type	prov:Association
+v39	insert	applies_to_person.name	Erik Aude
+v39	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v40
+v40	insert	applied_roles	Writing review and editing
+v40	insert	type	prov:Association
+v40	insert	applies_to_person.name	Lene Thomsen
+v40	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v41
+v41	insert	applied_roles	Writing review and editing
+v41	insert	type	prov:Association
+v41	insert	applies_to_person.name	Camilla Lemming
+v41	insert	applies_to_person.orcid	orcid:0000-0003-2997-4434
+v41	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v42
+v42	insert	applied_roles	Writing review and editing
+v42	insert	type	prov:Association
+v42	insert	applies_to_person.name	Rita Hørfarter
+v42	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v43
+v43	insert	applied_roles	Writing review and editing
+v43	insert	type	prov:Association
+v43	insert	applies_to_person.name	Marlene Mark Jensen
+v43	insert	applies_to_person.orcid	orcid:0000-0002-9711-763X
+v43	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v44
+v44	insert	applied_roles	Writing review and editing
+v44	insert	type	prov:Association
+v44	insert	applies_to_person.name	Tobias Guldberg Frøslev
+v44	insert	applies_to_person.orcid	orcid:0000-0002-3530-013X
+v44	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v45
+v45	insert	applied_roles	Writing review and editing
+v45	insert	type	prov:Association
+v45	insert	applies_to_person.name	Lone Gram
+v45	insert	applies_to_person.orcid	orcid:0000-0002-1076-5723
+v45	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v46
+v46	insert	applied_roles	Writing review and editing
+v46	insert	type	prov:Association
+v46	insert	applies_to_person.name	Peter Bing Svendsen
+v46	insert	applies_to_person.orcid	orcid:0000-0001-7479-5860
+v46	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v47
+v47	insert	applied_roles	Writing review and editing
+v47	insert	type	prov:Association
+v47	insert	applies_to_person.name	Morten Dencker Schostag
+v47	insert	applies_to_person.orcid	orcid:0000-0001-9221-1398
+v47	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v48
+v48	insert	applied_roles	Writing review and editing
+v48	insert	type	prov:Association
+v48	insert	applies_to_person.name	Sanne Kjellerup
+v48	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v49
+v49	insert	applied_roles	Writing review and editing
+v49	insert	type	prov:Association
+v49	insert	applies_to_person.name	Torben Lund Skovhus
+v49	insert	applies_to_person.orcid	orcid:0000-0001-8294-8855
+v49	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v50
+v50	insert	applied_roles	Writing review and editing
+v50	insert	type	prov:Association
+v50	insert	applies_to_person.name	Ditte Andreasen Søborg
+v50	insert	applies_to_person.orcid	orcid:0000-0001-6715-5312
+v50	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v51
+v51	insert	applied_roles	Writing review and editing
+v51	insert	type	prov:Association
+v51	insert	applies_to_person.name	Kasper Reitzel
+v51	insert	applies_to_person.orcid	orcid:0000-0003-4196-2049
+v51	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v52
+v52	insert	applied_roles	Writing review and editing
+v52	insert	type	prov:Association
+v52	insert	applies_to_person.name	Jørgen F. Pedersen
+v52	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v53
+v53	insert	applied_roles	Writing review and editing
+v53	insert	type	prov:Association
+v53	insert	applies_to_person.name	Andrew T. Giguere
+v53	insert	applies_to_person.orcid	orcid:0000-0001-9891-7252
+v53	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v54
+v54	insert	applied_roles	Writing review and editing
+v54	insert	type	prov:Association
+v54	insert	applies_to_person.name	Inge Søkilde Pedersen
+v54	insert	applies_to_person.orcid	orcid:0000-0002-9902-8040
+v54	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v55
+v55	insert	applied_roles	Writing review and editing
+v55	insert	type	prov:Association
+v55	insert	applies_to_person.name	Mads Sønderkær
+v55	insert	applies_to_person.orcid	orcid:0000-0002-9309-7459
+v55	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v56
+v56	insert	applied_roles	Writing review and editing
+v56	insert	type	prov:Association
+v56	insert	applies_to_person.name	Jes Vollertsen
+v56	insert	applies_to_person.orcid	orcid:0000-0003-0738-0547
+v56	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v57
+v57	insert	applied_roles	Writing review and editing
+v57	insert	type	prov:Association
+v57	insert	applies_to_person.name	Fan Liu
+v57	insert	applies_to_person.orcid	orcid:0000-0003-2644-2416
+v57	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v58
+v58	insert	applied_roles	Writing review and editing
+v58	insert	type	prov:Association
+v58	insert	applies_to_person.name	Peter Roslev
+v58	insert	applies_to_person.orcid	orcid:0000-0002-8994-2154
+v58	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v59
+v59	insert	applied_roles	Writing review and editing
+v59	insert	type	prov:Association
+v59	insert	applies_to_person.name	Niels Iversen
+v59	insert	applies_to_person.orcid	orcid:0000-0002-5316-0425
+v59	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v60
+v60	insert	applied_roles	Writing review and editing
+v60	insert	type	prov:Association
+v60	insert	applies_to_person.name	Kåre Lehmann Nielsen
+v60	insert	applies_to_person.orcid	orcid:0000-0002-5598-4401
+v60	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v61
+v61	insert	applied_roles	Writing review and editing
+v61	insert	type	prov:Association
+v61	insert	applies_to_person.name	Nadieh de Jonge
+v61	insert	applies_to_person.orcid	orcid:0000-0003-0891-0837
+v61	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v62
+v62	insert	applied_roles	Writing review and editing
+v62	insert	type	prov:Association
+v62	insert	applies_to_person.name	Dan Bruhn
+v62	insert	applies_to_person.orcid	orcid:0000-0002-9811-9194
+v62	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v63
+v63	insert	applied_roles	Writing review and editing
+v63	insert	type	prov:Association
+v63	insert	applies_to_person.name	Jeppe Lund Nielsen
+v63	insert	applies_to_person.orcid	orcid:0000-0002-8747-6938
+v63	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v64
+v64	insert	applied_roles	Writing review and editing
+v64	insert	type	prov:Association
+v64	insert	applies_to_person.name	Torsten Nygaard Kristensen
+v64	insert	applies_to_person.orcid	orcid:0000-0001-6204-8753
+v64	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v65
+v65	insert	applied_roles	Writing review and editing
+v65	insert	type	prov:Association
+v65	insert	applies_to_person.name	Chenjing Jiang
+v65	insert	applies_to_person.orcid	orcid:0000-0001-7413-9388
+v65	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v66
+v66	insert	applied_roles	Writing review and editing
+v66	insert	type	prov:Association
+v66	insert	applies_to_person.name	Marta Nierychlo
+v66	insert	applies_to_person.orcid	orcid:0000-0003-1756-3726
+v66	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v67
+v67	insert	applied_roles	Writing review and editing
+v67	insert	type	prov:Association
+v67	insert	applies_to_person.name	Giulia Dottorini
+v67	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v68
+v68	insert	applied_roles	Formal Analysis|Writing review and editing
+v68	insert	type	prov:Association
+v68	insert	applies_to_person.name	Michael Wagner
+v68	insert	applies_to_person.orcid	orcid:0000-0002-9778-7684
+v68	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v69
+v69	insert	applied_roles	Methodology|Resources|Formal Analysis|Writing original draft|Writing review and editing
+v69	insert	type	prov:Association
+v69	insert	applies_to_person.name	Morten Kam Dahl Dueholm
+v69	insert	applies_to_person.orcid	orcid:0000-0003-4135-2670
+v69	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v70
+v70	insert	applied_roles	Conceptualization|Methodology|Project administration|Writing original draft|Writing review and editing|Supervision|Funding acquisition|Principal Investigator
+v70	insert	type	prov:Association
+v70	insert	applies_to_person.name	Per Halkjær Nielsen
+v70	insert	applies_to_person.orcid	orcid:0000-0002-6402-1877
+v70	insert	applies_to_person.email	phn@bio.aau.dk
+v70	insert	applies_to_person.type	nmdc:PersonValue
+nmdc:sty-11-2c3s5473	insert	has_credit_associations	v71
+v71	insert	applied_roles	Conceptualization|Methodology|Writing original draft|Writing review and editing|Supervision|Funding acquisition|Principal Investigator
+v71	insert	type	prov:Association
+v71	insert	applies_to_person.name	Mads Albertsen
+v71	insert	applies_to_person.orcid	orcid:0000-0002-6151-190X
+v71	insert	applies_to_person.email	ma@bio.aau.dk
+v71	insert	applies_to_person.type	nmdc:PersonValue
