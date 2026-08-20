@@ -14,9 +14,13 @@ Sidecar repo for verbose GitHub issue/PR content that doesn't belong in the issu
 ## How to use
 
 1. Put the file under a directory named for the repo whose issue it belongs to.
-2. Commit it on a branch and open a PR. A pre-commit hook refuses direct commits to `main`.
+2. Commit it on a branch and open a PR rather than committing to `main`.
 3. Link it from the issue, pinning the commit SHA rather than `main`:
    `https://github.com/turbomam/issue-attachments/blob/{sha}/{path}`
+
+On Mark's machines a global hook (`core.hooksPath = ~/bin/git-hooks`) enforces step 2 by refusing
+direct commits to a default branch. That hook is not part of this repo, so it does not apply to
+anyone else. Follow step 2 anyway.
 
 SHA-pinned links keep resolving if the file is later moved, renamed, or removed, and they do not
 change meaning when the file is revised. A `blob/main` link silently starts pointing at different
@@ -24,8 +28,11 @@ content, or breaks.
 
 ## Naming
 
-Files are named for their content and dated, `{topic}-{YYYY-MM-DD}`, matching how they are
-referenced in discussion. Examples in this repo:
+Files are named for their content and carry a date, so a name matches how the thing is referred to
+in discussion and a later revision does not overwrite an earlier one. Where the date belongs varies:
+on the file when a single file stands alone, on the directory when a set of files shares one
+occasion. Existing names are not uniform in delimiter or casing, and that is tolerated rather than
+enforced. Examples in this repo:
 
 ```
 nmdc-ingest-agent/mfd-credit-associations-2026-08-20.tsv
