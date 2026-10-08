@@ -4,7 +4,7 @@ Supports an issue in https://github.com/microbiomedata/issues asking repo owners
 
 - `retired-names.txt`: 377 names that some nmdc-schema release defined and the current schema does not. One per line, for `rg -w -F -f`.
 - `retired-names.tsv`: the same names with element kind, the last release that had each one, and whether `deprecated.yaml` records it.
-- `per-repo.tsv`: the 40 non-archived repos with at least one mention, with the date of the last commit, the number of matching lines, the most frequent names, commits in the 12 months before 2026-10-08, and the person with the most of those commits.
+- `per-repo.tsv`: the 40 non-archived repos with at least one mention, with the date of the last commit, the number of matching lines, the most frequent names, commits in the 12 months before 2026-10-08, the person with the most of those commits, and the person with the most content commits. A content commit changes at least one file outside `.github/` and lockfiles, so GitHub Actions upgrades and dependency bumps don't count. `documented_maintainer` gives the maintainer named in the repo's own docs, where there is one.
 - `mentions.tsv`: one row per name per matching line, with a permalink to the scanned commit.
 
 ## How the list was made
