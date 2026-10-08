@@ -1,0 +1,41 @@
+repo	visibility	fork	last_commit_date	lines_mentioning_retired_name	files	top_retired_names	commits_12mo	top_committer_12mo	top_committer_commits	scanned_commit
+external-metadata-awareness	public	false	2026-10-07	7559	122	DNASampleFormatEnum:2289 RNASampleFormatEnum:2289 Solution:1577 ChemicalEntity:736 PersonValue:543	347	turbomam	246	eb165cf14
+metadata_converter	public	false	2021-04-19	2088	82	environment_field:515 investigation_type:144 Activity:113 MaterialSample:96 samp_salinity:73	0			77ef26dab
+nmdc-schema	public	false	2026-10-02	1673	120	OmicsProcessing:176 Activity:142 TargetGeneEnum:120 Solution:117 applies_to_person:93	1030	turbomam	514	647010882
+nmdc_kbase	public	false	2021-10-12	1609	3	omics_type:486 OmicsProcessing:484 instrument_name:434 NomAnalysisActivity:170 MetabolomicsAnalysisActivity:34	0			d15192bcf
+sample-annotator	public	false	2026-05-21	1265	5	Activity:195 investigation_type:70 submitted_to_insdc:70 samp_salinity:69 host_family_relationship:39	2	pkalita-lbl	2	b03a8d957
+nmdc_automation	public	false	2026-10-05	1039	78	ReadQcAnalysisActivity:418 ReadBasedTaxonomyAnalysisActivity:375 Activity:64 metaproteomics_analysis_activity_set:55 activity_set:49	326	aclum	91	3d1e0d8cf
+submission-schema	public	false	2026-10-07	425	68	sample_isolated_from:92 JgiContTypeEnum:47 Reaction:29 investigation_type:26 Solution:14	308	turbomam	102	abe8128c4
+nmdc-server	public	false	2026-10-07	301	44	OmicsProcessing:77 omics_type:37 metagenome_annotation_id:21 PersonValue:9 best_protein:8	1753	codytodonnell	570	6b478649e
+nmdc_notebooks	public	false	2026-10-05	241	14	all_proteins:97 best_protein:95 Pathway:43 extraction_set:24 pooling_set:21	81	kheal	25	3a674effc
+metaPro	public	false	2026-08-14	186	6	was_associated_with:13 all_proteins:8 peptide_sum_masic_abundance:8 best_protein:7 min_q_value:6	28	picowatt	26	82e0bc53e
+nmdc-runtime	public	false	2026-10-05	130	31	omics_processing_set:13 read_qc_analysis_activity_set:10 activity_set:10 OmicsProcessing:10 metagenome_annotation_activity_set:9	1114	eecavanna	681	02391279c
+MIxS-ontology-translation	public	false	2019-10-31	56	2	samp_salinity:11 host_family_relationship:6 ihmc_ethnicity:5 tvdss_of_hcr_pressure:2 host_infra_specific_name:2	0			d11786c73
+metadata-for-user-facility-template-transformations	public	false	2026-08-13	49	11	sample_isolated_from:20 Reaction:5 collection_date_inc:2 extraction_method:2 microbial_biomass_meth:2	96	sujaypatil96	76	89aa2ff6f
+nmdc-metadata-suggestor-ai-tool	public	false	2026-10-06	46	13	publication_dois:27 PersonValue:10 applies_to_person:9 collection_date_inc:2 dataset_dois:1	650	hesspnnl	390	acb3d9ffb
+metaAssembly	public	false	2026-05-21	33	3	ctg_N50:3 ctg_L50:3 ctg_N90:3 ctg_L90:3 scaf_N50:3	6	pkalita-lbl	2	f0d698f75
+pilot	public	false	2020-04-06	31	7	omics_type:7418 instrument_name:6490 publication_dois:15	0			1ed733900
+metaMS	public	false	2026-09-08	28	2	material_output:3 inchi_key:2 device_type:2 activity_time:2 container_type:2	31	kheal	27	4f36b2480
+nmdc-mass-spec-automation	public	false	2026-09-29	28	15	instrument_name:29 extraction_method:2 has_calibration:2	487	kheal	301	2faac51eb
+docs	public	false	2026-09-08	25	3	OmicsProcessing:7 BiosampleProcessing:6 EnvironmentalMaterialTerm:3 UrlValue:3 IntegerValue:3	93	aclum	42	5dadafbf4
+nmdc-lakehouse-schema	public	false	2026-09-25	19	9	applies_to_person:8 collection_date_inc:6 PersonValue:5 TargetGeneEnum:1	42	turbomam	22	3ae9ffaa1
+portal_user_guide	public	false	2025-02-20	18	6	omics_type:15 instrument_name:9	0			0a0f5d4bc
+issues	public	false	2026-05-21	17	2	Solution:5 OmicsProcessing:5 Activity:2 SolutionComponent:2 BiosampleProcessing:1	62	turbomam	36	7b662ed10
+workflow-scripts	public	false	2022-05-20	17	4	activity_set:4 metagenome_annotation_id:3 metagenome_annotation_activity_set:2 Activity:1 scaf_n_gt50K:1	0			540b1d4d1
+metaT_Assembly	public	false	2026-05-21	11	1	scaf_N50:1 scaf_L50:1 ctg_N50:1 ctg_L50:1 scaf_N90:1	14	vlilanl	11	2d8c47c5b
+nmdc-mcp	public	false	2026-05-22	11	5	omics_type:7 Solution:2 instrument_name:1 OmicsProcessing:1 sampling_method:1	10	sujaypatil96	8	16ec410e3
+oai-nmdc-plugin	public	false	2023-05-12	10	2	omics_type:13	0			6c4faa79a
+w3id.org	public	true	2025-09-25	10	8	Activity:12	0			f6ab53481
+nmdc-lakehouse	public	false	2026-10-05	9	4	applies_to_person:4 PersonValue:2 collection_date_inc:2 metagenome_annotation_activity_set:1	166	turbomam	144	3992849e6
+infra-admin	private	false	2026-09-03	8	5	metagenome_assembly_set:6 mags_activity_set:3 metagenome_sequencing_activity_set:2 read_based_taxonomy_analysis_activity_set:2 read_qc_analysis_activity_set:2	99	eecavanna	69	176b8b136
+nmdc-client	public	false	2026-09-29	8	1	instrument_name:8	401	kheal	123	5f02a8afa
+nmdc-ingest-agent	public	false	2026-10-02	8	3	TargetGeneEnum:9	126	sujaypatil96	100	8e3a41146
+nmdc-aggregator	public	false	2026-05-26	7	2	peptide_sequence:8 peptide_spectral_count:1 Activity:1	9	kheal	6	4cabbcf4c
+metaG	public	false	2021-11-02	6	1	Activity:5 MetagenomeAnnotationActivity:1	0			8e61d57e3
+nmdc-ai-eval	public	false	2026-10-07	6	2	PersonValue:3 applies_to_person:2 OmicsProcessing:1	154	turbomam	116	be9dba238
+nmdc_mass_spectrometry_metadata_generation	public	false	2026-09-29	6	2	has_inputs:4 has_outputs:1 instrument_name:1	274	hesspnnl	98	ddb60ef9d
+GOLD-ontology-translation	public	false	2020-02-26	4	1	BiosampleProcessing:4	0			eeefd0873
+streams-agent	public	false	2026-05-22	4	2	Solution:4	4	pkalita-lbl	2	faa399f7e
+workflow_documentation	public	false	2025-02-20	4	1	has_inputs:2 has_outputs:2	0			7d5e7a374
+SRA_submit	public	false	2026-01-20	2	1	OmicsProcessing:2	3	scanon	3	c9bc2f26f
+DataHarmonizer	public	true	2026-05-22	1	1	Solution:1	5	pkalita-lbl	5	7729a4360
