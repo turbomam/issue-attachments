@@ -20,7 +20,9 @@ The names come from `assets/schema_element_history/retired_elements.tsv` in http
 On 2026-10-08, each non-archived repo's default branch was cloned at depth 1 and searched with:
 
 ```sh
-rg --no-ignore --hidden -g '!.git' -n -w -F -f retired-names.txt .
+rg --null --no-ignore --hidden -g '!.git' -n -o -w -F -f retired-names.txt .
 ```
 
 Matches are whole words and case-sensitive, and binary files were skipped. A match is a lead, not a confirmed problem. Some names are ordinary capitalized words, such as `Solution` and `Activity`.
+
+`--null` separates each file name from its line number with a NUL byte. Without it, a file name containing a colon, such as nmdc_automation's `archive/re_iding/data/nmdc:sty-11-.../`, is split in the wrong place. The first version of these files had that bug and undercounted nmdc_automation by about 42,000 lines.
